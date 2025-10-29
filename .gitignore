@@ -1,0 +1,16 @@
+# Node (Vue)
+node_modules/
+dist/
+
+# Laravel
+/vendor
+.env
+/storage/logs
+/storage/framework
+
+# IDE & hệ thống
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
